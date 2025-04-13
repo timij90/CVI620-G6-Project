@@ -80,7 +80,7 @@ def self_model():
     model.compile(loss=MeanSquaredError(), optimizer=Adam(learning_rate=1e-4))
     return model
 
-# EVALUATE
+# EVALUATION
 def train_model():
     csv_file = 'driving_log.csv'
     image_paths, steerings = load_data(csv_file)
