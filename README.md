@@ -80,8 +80,6 @@ The final model is saved as `model.h5`. A loss graph (`training_plot.png`) is al
 
 ## Challenges & Solutions
 
-## 🚧 Challenges & Solutions
-
 | **Challenge**                        | **Solution**                                                                 |
 |-------------------------------------|------------------------------------------------------------------------------|
 | Overrepresentation of straight driving | Balanced dataset by under-sampling straight driving data                    |
