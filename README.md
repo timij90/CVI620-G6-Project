@@ -40,7 +40,7 @@ We use the Udacity self-driving car simulator for data collection and testing. T
    ```
 
 3. **Download the Udacity Simulator:**
-   - [Simulator Link Version 2 Link](ttps://github.com/udacity/self-driving-car-sim?tab=readme-ov-file#:~:text=Linux%20Mac%20Windows-,Version%201%2C%2012/09/16,-Linux%20Mac%20Windows)
+   - [Simulator Link Version 2 Link](https://github.com/udacity/self-driving-car-sim?tab=readme-ov-file#:~:text=Linux%20Mac%20Windows-,Version%201%2C%2012/09/16,-Linux%20Mac%20Windows)
 
 ---
 
