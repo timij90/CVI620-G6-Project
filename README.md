@@ -89,4 +89,4 @@ The final model is saved as `model.h5`. A loss graph (`training_plot.png`) is al
 ---
 
 ## Demo
-[Link to demo video]()
+[Link to demo video](https://youtu.be/vIGZjvUtrsg)
