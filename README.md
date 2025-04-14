@@ -49,8 +49,8 @@ We use the Udacity self-driving car simulator for data collection and testing. T
 1. Launch the simulator and select **Training Mode**.
 2. Manually drive the car using your keyboard or mouse.
 3. Save the data by clicking Recording, which generates:
-  - A folder of images (IMG/)
-  - A CSV file (driving_log.csv)
+  - A folder of images (`IMG/`)
+  - A CSV file (`driving_log.csv`)
 
 Drive several laps in both directions to balance your dataset.
 
