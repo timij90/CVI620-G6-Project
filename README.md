@@ -80,6 +80,13 @@ The final model is saved as `model.h5`. A loss graph (`training_plot.png`) is al
 
 ## Challenges & Solutions
 
+## 🚧 Challenges & Solutions
+
+| **Challenge**                        | **Solution**                                                                 |
+|-------------------------------------|------------------------------------------------------------------------------|
+| Overrepresentation of straight driving | Balanced dataset by under-sampling straight driving data                    |
+| Model overfitting                   | Used a compact model architecture with validation split                     |
+| Insufficient training time          | Increased number of epochs from 10 to 40 for better model convergence       |
 
 ---
 
